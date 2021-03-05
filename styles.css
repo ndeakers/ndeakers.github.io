@@ -76,6 +76,7 @@ color: white;
     margin-top: 7%;
     border: 1px solid black;
     display: flex;
+    flex-flow: wrap;
     justify-content: space-around;
     background-color: rgba(0,0,0,.5);
 }
